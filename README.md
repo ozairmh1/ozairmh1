@@ -114,9 +114,25 @@ I care about writing clean code, solving real problems, and continuously improvi
 
 ---
 
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a2e,100:0a0a0a&height=80&section=footer&reversal=true" />
+
+</div>
+## GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ozairmh1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozairmh1&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ozairmh1&theme=tokyonight&hide_border=true&background=00000000"/>
 
 </div>
 
