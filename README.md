@@ -35,13 +35,7 @@
 ---
 
 <br/>
-## Achievements
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ozairmh1&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
 
 ## About
 
@@ -127,10 +121,6 @@ I care about writing clean code, solving real problems, and continuously improvi
 
 <a href="https://www.linkedin.com/in/ozair-mh" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Ozair%20Mohammed%20Haneef-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/ozair.mh1/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-@ozair.mh1-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:ozair.mh1@gmail.com" target="_blank">
