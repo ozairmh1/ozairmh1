@@ -66,3 +66,21 @@ Currently:
 <img src="https://skillicons.dev/icons?i=python,c,html,css,mysql,git,github,vscode,linux,tensorflow,pytorch,sklearn" />
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212750222-5b7c5f7c-0e4f-4b5f-9cb8-6d98e5f11d39.gif" width="100%">
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ozairmh1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozairmh1&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ozairmh1&theme=tokyonight&hide_border=true&background=00000000"/>
+
+</div>
