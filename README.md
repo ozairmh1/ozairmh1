@@ -5,6 +5,26 @@
 </div>
 
 <br/>
+<table>
+<tr>
+<td width="55%">
+
+### About Me
+
+- Final Year Computer Science Engineering Student  
+- Focused on AI/ML, NLP, and Data Analytics  
+- Building intelligent systems and practical applications  
+- Linux enthusiast and Python developer  
+
+</td>
+
+<td width="45%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
