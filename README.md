@@ -61,7 +61,7 @@ Projects involving data cleaning, visualization, and analysis using Python libra
 - GitHub: https://github.com/ozairmh1
 - linkedin:www.linkedin.com/in/ozair-mh
 
----
+----
 
 ⭐ Always learning, building, and improving through practical projects and consistent development.
 **ozairmh1/ozairmh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
