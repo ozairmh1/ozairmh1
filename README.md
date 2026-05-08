@@ -9,3 +9,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=8B9AFF&center=true&vCenter=true&width=750&lines=Building+AI-driven+solutions.;Turning+data+into+insights.;Machine+Learning+%7C+NLP+%7C+Python.;Creating+clean+and+practical+systems." />
 
 </div>
+
+<div align="center">
+
+<img width="420" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
+
+</div>
