@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Ozair%20Mohammed%20Haneef&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+</p>
 <<!--# Hi 👋 I'm Ozair Mohammed Haneef
 
 🎓 Final Year Computer Science Engineering Student From Osmania University   
