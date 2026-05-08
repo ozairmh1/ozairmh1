@@ -119,4 +119,11 @@ I care about writing clean code, solving real problems, and continuously improvi
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a2e,100:0a0a0a&height=80&section=footer&reversal=true" />
 
 </div>
+
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
 <img src="https://user-images.githubusercontent.com/74038190/212750222-5b7c5f7c-0e4f-4b5f-9cb8-6d98e5f11d39.gif" width="100%">
