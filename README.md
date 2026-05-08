@@ -67,7 +67,7 @@ Currently:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:0F172A,50:1E293B,100:334155&section=header"/>
 
 # GitHub Analytics
 
