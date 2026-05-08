@@ -77,6 +77,13 @@ Currently:
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozairmh1&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
+<img src="https://user-images.githubusercontent.com/74038190/212750222-5b7c5f7c-0e4f-4b5f-9cb8-6d98e5f11d39.gif" width="100%">
+
+# Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
 
 <br>
 
