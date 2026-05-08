@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--# Hi 👋 I'm Ozair Mohammed Haneef
+<<!--# Hi 👋 I'm Ozair Mohammed Haneef
 
 🎓 Final Year Computer Science Engineering Student From Osmania University   
 💻 Developer focused on Python, AI/ML, Data Analytics, and NLP-based applications  
