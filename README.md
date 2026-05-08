@@ -68,7 +68,7 @@
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="www.linkedin.com/in/ozair-mh">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
