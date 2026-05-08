@@ -117,3 +117,8 @@ Currently:
 <img src="https://komarev.com/ghpvc/?username=ozairmh1&label=Profile+Views&color=8B9AFF&style=flat-square"/>
 
 </div>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1E293B,100:0F172A&height=120&section=footer"/>
+
+</div>
