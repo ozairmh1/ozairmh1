@@ -67,19 +67,24 @@ Currently:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
+---
+
 # GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ozairmh1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ozairmh1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8B9AFF&icon_color=8B9AFF&text_color=c9d1d9"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozairmh1&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozairmh1&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8B9AFF&text_color=c9d1d9"/>
 
 </div>
+
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ozairmh1&theme=tokyonight&hide_border=true&background=00000000"/>
+<img src="https://streak-stats.demolab.com?user=ozairmh1&theme=tokyonight&hide_border=true&background=00000000&ring=8B9AFF&fire=8B9AFF&currStreakLabel=8B9AFF"/>
 
 </div>
+
+---
