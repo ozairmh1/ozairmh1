@@ -4,12 +4,6 @@
 
 </div>
 
-<div align="center">
-
-<img width="500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2I0aHB4bGI0Z2R1M2lwd2I2YjQ3d2VvbDB1aWVxMG8xOXB1a2N2dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMt9638dO8dftAjtco/giphy.gif"/>
-
-</div>
-
 <br/>
 
 <div align="center">
@@ -118,4 +112,5 @@ I care about writing clean code, solving real problems, and continuously improvi
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a2e,100:0a0a0a&height=80&section=footer&reversal=true" />
 
 </div>
+<img src="https://user-images.githubusercontent.com/74038190/212750222-5b7c5f7c-0e4f-4b5f-9cb8-6d98e5f11d39.gif" width="100%">
 ---
