@@ -66,16 +66,15 @@ Currently:
 <img src="https://skillicons.dev/icons?i=python,c,html,css,mysql,git,github,vscode,linux,tensorflow,pytorch,sklearn" />
 
 </div>
-
 ---
 
 # GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ozairmh1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8B9AFF&icon_color=8B9AFF&text_color=c9d1d9"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ozairmh1&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozairmh1&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8B9AFF&text_color=c9d1d9"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozairmh1&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -83,7 +82,7 @@ Currently:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ozairmh1&theme=tokyonight&hide_border=true&background=00000000&ring=8B9AFF&fire=8B9AFF&currStreakLabel=8B9AFF"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=ozairmh1&theme=tokyonight&hide_border=true"/>
 
 </div>
 
