@@ -15,3 +15,45 @@
 <img width="430" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/216656965-9bc8f4b8-66b9-4b5a-9d87-8b9c4d5cc1f0.gif" width="100%">
+
+# About Me
+
+<table>
+<tr>
+
+<td width="60%">
+
+```yaml
+Name: Ozair Mohammed Haneef
+Role: Computer Science Engineer
+
+Focus Areas:
+  - Artificial Intelligence
+  - Machine Learning
+  - NLP Systems
+  - Data Analytics
+
+Working With:
+  - Python
+  - SQL
+  - Linux
+  - Git/GitHub
+
+Currently:
+  - Building AI-based applications
+  - Improving real-world development skills
+  - Exploring intelligent systems
+```
+
+</td>
+
+<td width="40%">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%"/>
+
+</td>
+
+</tr>
+</table>
