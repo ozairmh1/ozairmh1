@@ -31,6 +31,13 @@ I care about writing clean code, solving real problems, and continuously improvi
 <br/>
 
 ---
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,html,css,mysql,git,github,vscode,linux,tensorflow,pytorch" />
+
+</div>
 
 ## Skills
 
