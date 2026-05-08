@@ -94,3 +94,26 @@ Currently:
 </div>
 
 ---
+<img src="https://user-images.githubusercontent.com/74038190/212750222-5b7c5f7c-0e4f-4b5f-9cb8-6d98e5f11d39.gif" width="100%">
+
+# Connect With Me
+
+<div align="center">
+
+<a href="mailto:ozair.mh1@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ozair-mh">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/ozairmh1">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ozairmh1&label=Profile+Views&color=8B9AFF&style=flat-square"/>
+
+</div>
