@@ -79,16 +79,6 @@ I care about writing clean code, solving real problems, and continuously improvi
 
 ---
 
-## Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ozairmh1&bg_color=0d1117&color=8B9AFF&line=8B9AFF&point=ffffff&area=true&area_color=8B9AFF&hide_border=true&border_radius=8" />
-
-</div>
-
-<br/>
-
 ---
 
 ## Connect
