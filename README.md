@@ -1,6 +1,9 @@
 ## Hi there 👋
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Ozair%20Mohammed%20Haneef&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Python+Developer;AI%2FML+%26+NLP+Enthusiast;Data+Analytics+Learner;Building+Real-World+Projects" />
+</p>
 </p>
 <<!--# Hi 👋 I'm Ozair Mohammed Haneef
 
