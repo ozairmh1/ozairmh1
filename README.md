@@ -111,7 +111,11 @@ Currently:
 <a href="https://github.com/ozairmh1">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
+<div align="center">
 
+### Open to collaborations, internships, and AI-driven projects 🚀
+
+</div>
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=ozairmh1&label=Profile+Views&color=8B9AFF&style=flat-square"/>
