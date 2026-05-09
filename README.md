@@ -16,6 +16,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=8B9AFF&center=false&vCenter=true&width=500&lines=Building+AI-driven+solutions.;Turning+data+into+insights.;Machine+Learning+%7C+NLP+%7C+Python.;Creating+clean+and+practical+systems." />
 
 <br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</p>
 
 ```yaml
 Name: Ozair Mohammed Haneef
