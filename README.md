@@ -81,15 +81,6 @@ Technical Background:
 </p>
 
 # GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ozairmh1&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozairmh1&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 <br>
 
 # Contribution Streak
@@ -101,8 +92,8 @@ Technical Background:
 </div>
 
 <br>
----
 
+---
 # Contribution Snake
 
 <p align="center">
@@ -110,8 +101,8 @@ Technical Background:
 </p>
 
 <br>
----
 
+---
 # Connect With Me
 
 <div align="center">
