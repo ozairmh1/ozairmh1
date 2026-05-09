@@ -70,34 +70,68 @@ Technical Background:
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </p>
 
-```yaml
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### Languages
-Python | SQL | C | HTML | CSS
+<table>
+<tr>
 
-### AI/ML & Data
-Pandas | NumPy | Scikit-learn | TensorFlow | NLP
+<td width="35%" align="center">
 
-### Databases
-MySQL | SQLite
-
-### Tools & Platforms
-Git | GitHub | Linux | VS Code | Jupyter Notebook
-
-### Currently Learning
-Deep Learning | Data Engineering | System Design
-
-```
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="280"/>
 
 </td>
-<td width="45%">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+
+<td width="65%">
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,html,css" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" />
+</p>
+
+Python | SQL | C | HTML | CSS
+
+---
+
+### 🤖 AI/ML & Data
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+Pandas | NumPy | Scikit-learn | TensorFlow | NLP
+
+---
+
+### 🗄 Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+MySQL | SQLite
+
+---
+
+### ⚙ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter" />
+</p>
+
+Git | GitHub | Linux | VS Code | Jupyter Notebook
+
+---
+
+### 📚 Currently Learning
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,docker,kubernetes" />
+</p>
+
+Deep Learning | Data Engineering | System Design
 
 </td>
 
 </tr>
-
+</table>
 
 ---
 # Contribution Snake
