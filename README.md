@@ -15,15 +15,41 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=8B9AFF&center=false&vCenter=true&width=500&lines=Building+AI-driven+solutions.;Turning+data+into+insights.;Machine+Learning+%7C+NLP+%7C+Python.;Creating+clean+and+practical+systems." />
 
-<br><br>
+<br>
 
-### 👨‍💻 About Me
+```yaml
+name: Ozair Mohammed Haneef
+located_in: India
+current_role: AI/ML & Data Analytics Developer
 
-- 🎓 Final Year Computer Science Engineering Student  
-- 🤖 Focused on AI/ML, NLP, and Data Analytics  
-- 🧠 Building intelligent and practical applications  
-- 🐧 Linux enthusiast and Python developer  
-- 🚀 Passionate about solving real-world problems through technology  
+education:
+  [
+    "B.E. Computer Science Engineering"
+  ]
+
+fields_of_interest:
+  [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Natural Language Processing",
+    "Data Analytics"
+  ]
+
+currently_working_on:
+  [
+    "AI-based applications",
+    "Scalable intelligent systems",
+    "Real-world development projects"
+  ]
+
+technical_background:
+  [
+    "Python",
+    "SQL",
+    "Linux",
+    "Git/GitHub"
+  ]
+```
 
 </td>
 
