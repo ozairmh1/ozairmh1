@@ -18,37 +18,29 @@
 <br>
 
 ```yaml
-name: Ozair Mohammed Haneef
-located_in: India
-current_role: AI/ML & Data Analytics Developer
+Name: Ozair Mohammed Haneef
+Located in: India,Hyderabad
+Current Role: AI/ML & Data Analytics Developer
 
-education:
-  [
-    "B.E. Computer Science Engineering"
-  ]
+Education:
+    B.E. Computer Science Engineering
 
-fields_of_interest:
-  [
-    "Artificial Intelligence",
-    "Machine Learning",
-    "Natural Language Processing",
-    "Data Analytics"
-  ]
+Fields Of Interest:
+    Artificial Intelligence
+    Machine Learning
+    Natural Language Processing (NLP)
+    Data Analytics
 
-currently_working_on:
-  [
-    "AI-based applications",
-    "Scalable intelligent systems",
-    "Real-world development projects"
-  ]
+Currently Working On:
+    AI-based applications
+    Scalable intelligent systems
+    Real-world development projects
 
-technical_background:
-  [
-    "Python",
-    "SQL",
-    "Linux",
-    "Git/GitHub"
-  ]
+Technical Background:
+    Python
+    SQL
+    Linux
+    Git/GitHub
 ```
 
 </td>
@@ -69,6 +61,11 @@ technical_background:
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,c,html,css,mysql,git,github,vscode,linux,tensorflow,pytorch,sklearn" />
+
+</div>
+<div align="center">
+
+<img width="85%" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
 
 </div>
 
