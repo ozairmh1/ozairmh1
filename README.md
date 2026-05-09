@@ -61,80 +61,31 @@ Technical Background:
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
 
-<table>
-<tr>
+# Tech Stack
 
-<td width="55%">
-<br>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,html,css,mysql,git,github,vscode,linux,tensorflow,pytorch,sklearn" />
+
+</div>
+<br><br>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<br><br>
+</div>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
 
-# 🛠 Tech Stack
-
-<table>
-<tr>
-
-<td width="38%" align="center" valign="middle">
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="320"/>
-
-</td>
-
-<td width="62%" valign="top">
-
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,mysql" />
-</p>
-
-Python | SQL | C | HTML | CSS
 
 ---
+# Contribution Snake
 
-### 🤖 AI/ML & Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
-Pandas | NumPy | Scikit-learn | TensorFlow | NLP
-
----
-
-### 🗄 Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</p>
-
-MySQL | SQLite
-
----
-
-### ⚙ Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
-</p>
-
-Git | GitHub | Linux | VS Code | Jupyter Notebook
-
----
-
-### 📚 Currently Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,docker,kubernetes" />
-</p>
-
-Deep Learning | Data Engineering | System Design
-
-</td>
-
-</tr>
-</table>
+<br>
 
 ---
 # Connect With Me
@@ -156,6 +107,12 @@ Deep Learning | Data Engineering | System Design
 <a href="https://github.com/ozairmh1">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
+</div>
+---
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1E293B,100:0F172A&height=120&section=footer"/>
+</div>
+
 </div>
 ---
 <div align="center">
