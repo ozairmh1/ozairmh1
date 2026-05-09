@@ -97,9 +97,6 @@ Deep Learning | Data Engineering | System Design
 </td>
 
 </tr>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</p>
 
 
 ---
@@ -135,5 +132,8 @@ Deep Learning | Data Engineering | System Design
 ---
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1E293B,100:0F172A&height=120&section=footer"/>
+  <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 </div>
 
