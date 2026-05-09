@@ -80,18 +80,6 @@ Technical Background:
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
 
-# GitHub Analytics
-<br>
-
-# Contribution Streak
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=ozairmh1&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
 
 ---
 # Contribution Snake
