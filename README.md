@@ -46,6 +46,7 @@ Working With:
 
 Currently:
   - Building AI-based applications
+  - Learning scalable AI systems
   - Improving real-world development skills
   - Exploring intelligent systems
 ```
