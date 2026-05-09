@@ -102,6 +102,7 @@ Technical Background:
 
 <br>
 ---
+
 # Contribution Snake
 
 <p align="center">
@@ -110,6 +111,7 @@ Technical Background:
 
 <br>
 ---
+
 # Connect With Me
 
 <div align="center">
