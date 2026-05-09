@@ -68,12 +68,7 @@ Technical Background:
 <img src="https://skillicons.dev/icons?i=python,c,html,css,mysql,git,github,vscode,linux,tensorflow,pytorch,sklearn" />
 
 </div>
-<br><br>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</p>
-
-
+<br>
 ---
 # Contribution Snake
 
@@ -82,10 +77,6 @@ Technical Background:
 </p>
 
 <br>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</p>
 
 # Connect With Me
 
@@ -107,15 +98,7 @@ Technical Background:
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 </div>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</p>
 
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1E293B,100:0F172A&height=120&section=footer"/>
-</div>
-
-</div>
 ---
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1E293B,100:0F172A&height=120&section=footer"/>
