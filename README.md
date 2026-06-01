@@ -69,7 +69,7 @@ Technical Background:
 
 </div>
 <br>
----
+-----
 # Contribution Snake
 
 <p align="center">
