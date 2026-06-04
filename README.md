@@ -88,15 +88,16 @@ Technical Background:
 <br>
 
 <a href="mailto:ozair.mh1@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+  <img src="https://img.shields.io/badge/Gmail-ozair.mh1%40gmail.com-1E293B?style=for-the-badge&logo=gmail&logoColor=EA4335&color=1E293B" alt="Gmail"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ozair-mh">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-Ozair%20MH-1E293B?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=1E293B" alt="LinkedIn"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/ozairmh1">
-<img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://img.shields.io/badge/GitHub-ozairmh1-1E293B?style=for-the-badge&logo=github&logoColor=E2E8F0&color=1E293B" alt="GitHub"/>
+
 </a>
 </div>
 
